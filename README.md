@@ -1,4 +1,4 @@
-shenzulun-shenzulun.github.io
+shenzulun.github.io
 =============================
 
 github pages
