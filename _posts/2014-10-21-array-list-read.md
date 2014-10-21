@@ -9,4 +9,5 @@ title: ArrayList源码阅读
 2. add(T item,int index)
 
 ## get
+
 get(int index)
